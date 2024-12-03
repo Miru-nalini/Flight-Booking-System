@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className='navbar_main'>
         <div className='navbar_container'>
           <img className='navbar_logo' src={planeLogo} alt='logo' />
-          <h2>GetSetGo</h2>
+          <h2>JetSetGo</h2>
         </div>
         <p className='navbar_auth'><a href={user ? `/user/${user?._id}` : '/login'}>{user ? `@${user?.username}`: 'Login'}</a></p>
     </div>

@@ -30,14 +30,14 @@
     width: inherit;
     padding: 5px;
     border-radius: 4px;
-    background-color: rgb(255, 55, 102);
+    background-color: rgb(33, 0, 93);
     color: white;
     font-weight: 600;
     cursor: pointer;
 }
 
 .search_button:hover {
-    background-color: rgb(249, 50, 83);
+    background-color: rgb(33, 0, 93);
 }
 
 .search_field label {

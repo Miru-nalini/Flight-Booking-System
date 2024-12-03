@@ -50,7 +50,7 @@ const Login = () => {
     <div className='login-main'>
       <div className='login-logo'>
         <img src={planeLogo} alt='planeLogo' />
-        <h1>SkyProbe</h1>
+        <h1>JetSetGo</h1>
       </div>
       <form className='login-container'>
         {fields.map((field) => (

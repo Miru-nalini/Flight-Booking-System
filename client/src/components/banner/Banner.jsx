@@ -1,6 +1,6 @@
 import React from 'react';
 import './banner.css';
-import airplaneImage from '../../assets/airplaneImage.jpg';
+import airplaneImage from '../../assets/airplaneImage.png';
 
 const Banner = () => {
   return (

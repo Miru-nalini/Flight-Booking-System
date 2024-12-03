@@ -93,7 +93,7 @@ const Register = () => {
     <div className='register-main'>
       <div className='register-logo'>
         <img src={planeLogo} alt='planeLogo' />
-        <h1>SkyProbe</h1>
+        <h1>JetSetGo</h1>
       </div>
       <form className='register-container'>
         {fields.map((field) => (
